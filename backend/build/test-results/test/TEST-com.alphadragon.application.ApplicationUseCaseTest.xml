@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.alphadragon.application.ApplicationUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-07-04T20:43:55.536Z" hostname="CACONEVES" time="0.079">
+  <properties/>
+  <testcase name="shouldCreateProjectFromUseCase()" classname="com.alphadragon.application.ApplicationUseCaseTest" time="0.04"/>
+  <testcase name="shouldAddAssemblyToProject()" classname="com.alphadragon.application.ApplicationUseCaseTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

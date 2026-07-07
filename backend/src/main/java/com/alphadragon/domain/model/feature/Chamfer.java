@@ -1,0 +1,22 @@
+package com.alphadragon.domain.model.feature;
+
+public final class Chamfer implements Feature {
+
+    private final String featureId;
+    private final String name;
+
+    public Chamfer(String featureId, String name) {
+        this.featureId = featureId;
+        this.name = name;
+    }
+
+    @Override
+    public String featureId() {
+        return featureId;
+    }
+
+    @Override
+    public String name() {
+        return name;
+    }
+}
